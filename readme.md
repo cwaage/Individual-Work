@@ -6,3 +6,5 @@
 * Branches
 * Github Classoom
 * Permissions
+* Exercises
+* Automation 
